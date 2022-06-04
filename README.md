@@ -1,6 +1,6 @@
 # Overview
 
-My app will allow the user to create, log in, and manage an account. It will have 4 different activities (each activity for each option and one for the main activity), and I will interact with the user letting him enter his information as input and saving these credentials into a database in firestore.
+My app will allow the user to create, login, and manage an account. It will have 4 different activities (each activity for each option and one for the main activity), and I will interact with the user letting him enter his information as input and saving these credentials into a database in firestore.
 
 I created this app to demonstrate the use of android studio using kotlin and firestore.
 
